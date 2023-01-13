@@ -5,7 +5,7 @@ import Trending from "./components/Trending";
 
 function App() {
 	return (
-		<div className="bg-OffWhite min-h-screen max-h-fit px-2 pt-8 font-Inter flex flex-col items-center">
+		<div className="bg-OffWhite min-h-screen max-h-fit px-2 pt-8 font-Inter flex flex-col items-center justify-center">
 			<Header />
 			<MainArticles />
 			<Trending />

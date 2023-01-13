@@ -1,4 +1,3 @@
-import React from "react";
 import RetroPc from "../assets/images/image-retro-pcs.jpg";
 import Laptops from "../assets/images/image-top-laptops.jpg";
 import GrowthGaming from "../assets/images/image-gaming-growth.jpg";
